@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Douyu.STT</RootNamespace>
+    <PackageId>CoelWu.Douyu.STT</PackageId>
+    <Authors>Coel Wu</Authors>
+    <Product>Douyu.STT</Product>
+    <Description>C#实现斗鱼websocket信息序列化反序列化
+源代码: https://github.com/CoelWu/Douyu-STT
+Douyu websocket message serializer and deserializer using C#
+Source Code: https://github.com/CoelWu/Douyu-STT
+</Description>
+    <Copyright>Copyright (c) 2018-2021 Coel Wu.</Copyright>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <RepositoryUrl></RepositoryUrl>
+    <PackageProjectUrl>https://github.com/CoelWu/Douyu-STT</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
