@@ -6,7 +6,7 @@
 
 # 斗鱼STT .NET SDK
 
-[![Nuget](https://img.shields.io/nuget/v/CoelWu.Douyu.ID)](https://www.nuget.org/packages/CoelWu.Douyu.ID/)
+[![Nuget](https://img.shields.io/nuget/v/CoelWu.Douyu.STT)](https://www.nuget.org/packages/CoelWu.Douyu.STT/)
 
 该SDK可以将斗鱼websocket的消息进行序列化和反序列化，在.NET Standard 2.0上构建
 
