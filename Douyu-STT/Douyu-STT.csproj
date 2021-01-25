@@ -15,8 +15,22 @@ Source Code: https://github.com/CoelWu/Douyu-STT
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <RepositoryUrl></RepositoryUrl>
+    <RepositoryUrl>https://github.com/CoelWu/Douyu-STT</RepositoryUrl>
     <PackageProjectUrl>https://github.com/CoelWu/Douyu-STT</PackageProjectUrl>
+    <PackageIcon>Douyu_icon.png</PackageIcon>
+    <PackageTags>douyu, coelwu, websocket, stt, serializer, deserializer</PackageTags>
+    <Version>1.0.1</Version>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Assets\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Assets\Douyu_icon.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
