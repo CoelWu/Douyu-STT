@@ -65,7 +65,7 @@ namespace Douyu.STT
                 {
                     continue;
                 }
-                var pair = temp.Split("@=".ToCharArray());
+                var pair = temp.Split(new string[] { "@=" }, StringSplitOptions.None);
                 if (pair.Length == 2)
                 {
                     Add(pair[0].ConvertBy(), pair[1].ConvertBy());

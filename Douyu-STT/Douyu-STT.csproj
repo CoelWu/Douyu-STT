@@ -19,7 +19,7 @@ Source Code: https://github.com/CoelWu/Douyu-STT
     <PackageProjectUrl>https://github.com/CoelWu/Douyu-STT</PackageProjectUrl>
     <PackageIcon>Douyu_icon.png</PackageIcon>
     <PackageTags>douyu, coelwu, websocket, stt, serializer, deserializer</PackageTags>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
   </PropertyGroup>
 
   <ItemGroup>
