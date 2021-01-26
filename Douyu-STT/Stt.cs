@@ -29,6 +29,18 @@ namespace Douyu.STT
             return data.FirstOrDefault(p => p.Key == key).Value;
         }
 
+        public int GetInt(string key)
+        {
+            try
+            {
+                return int.Parse(data.FirstOrDefault(p => p.Key == key).Value);
+            }
+            catch
+            {
+                return 0;
+            }
+        }
+
         public void Set(string key, string value)
         {
             int index = data.FindIndex(p => p.Key == key);
