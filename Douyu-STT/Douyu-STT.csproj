@@ -6,7 +6,7 @@
     <PackageId>CoelWu.Douyu.STT</PackageId>
     <Authors>Coel Wu</Authors>
     <Product>Douyu.STT</Product>
-    <Description>C#实现斗鱼websocket信息序列化反序列化
+    <Description>C# 实现斗鱼websocket信息序列化反序列化
 源代码: https://github.com/CoelWu/Douyu-STT
 Douyu websocket message serializer and deserializer using C#
 Source Code: https://github.com/CoelWu/Douyu-STT
@@ -19,7 +19,7 @@ Source Code: https://github.com/CoelWu/Douyu-STT
     <PackageProjectUrl>https://github.com/CoelWu/Douyu-STT</PackageProjectUrl>
     <PackageIcon>Douyu_icon.png</PackageIcon>
     <PackageTags>douyu, coelwu, websocket, stt, serializer, deserializer</PackageTags>
-    <Version>1.0.3</Version>
+    <Version>1.0.4</Version>
   </PropertyGroup>
 
   <ItemGroup>
